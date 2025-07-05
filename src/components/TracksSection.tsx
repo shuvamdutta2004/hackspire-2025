@@ -16,8 +16,6 @@ const tracks = [
     borderColor: "#EF4444",
     gradient: "linear-gradient(145deg, #EF4444, #F59E0B)",
     url: "#cyber-shakti",
-    imageHover:
-      "https://images.unsplash.com/photo-1614064548237-096f735f344f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     image: "https://i.pravatar.cc/300?img=2",
